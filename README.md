@@ -1,4 +1,4 @@
-# labunity 🚀
+# labunity ✨
 
 | 📂 NomeProgetto | 📝 Descrizione                |
 |-----------------|------------------------------|
